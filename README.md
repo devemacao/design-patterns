@@ -5,3 +5,4 @@
 - [x] Abstract Factory
 - [x] Factory Method
 - [x] Singleton
+- [x] Prototype
