@@ -6,3 +6,8 @@
 - [x] Factory Method
 - [x] Singleton
 - [x] Prototype
+- [x] Builder
+
+## Behavioral
+
+- [x] Strategy
