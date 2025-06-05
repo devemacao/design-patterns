@@ -8,6 +8,10 @@
 - [x] Prototype
 - [x] Builder
 
+## Structural
+
+- [x] Adapter
+
 ## Behavioral
 
 - [x] Strategy
