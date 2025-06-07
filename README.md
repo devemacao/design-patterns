@@ -15,3 +15,4 @@
 ## Behavioral
 
 - [x] Strategy
+- [x] Command
