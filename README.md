@@ -11,6 +11,7 @@
 ## Structural
 
 - [x] Adapter
+- [x] Flyweight
 
 ## Behavioral
 
