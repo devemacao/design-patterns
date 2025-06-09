@@ -17,3 +17,4 @@
 
 - [x] Strategy
 - [x] Command
+- [x] State
