@@ -12,6 +12,7 @@
 
 - [x] Adapter
 - [x] Flyweight
+- [x] Decorator
 
 ## Behavioral
 
