@@ -19,3 +19,4 @@
 - [x] Strategy
 - [x] Command
 - [x] State
+- [x] Chain of Responsability
