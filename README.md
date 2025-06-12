@@ -20,3 +20,4 @@
 - [x] Command
 - [x] State
 - [x] Chain of Responsability
+- [x] Mediator
